@@ -1,0 +1,11 @@
+{
+    "help": {
+        "Userinfo": "`o.userinfo <OPTIONAL: User Tag>` Zeige Informationen über dich bzw. andere User an",
+        "Customrole": "`o.customrole rename <New Name>` Ändere den Namen deiner Customrole",
+        "Lost": "`o.lostcounter`, `o.lost` Zeige bzw. Füge ein Lost hinzu",
+        "Comingsoon": "`o.comingsoon` Zeige geplante Features an",
+        "Say": "`o.say <Title> | <Value> OPTIONAL: $ <Title2> | <Value2> ... ` Schreibe deine Nachricht als ein Embed",
+        "birtday": "`o.birthday <Birthday>` Ändere deinen Geburtstag",
+        "realname": "`o.realname <Realname>` Ändere deinen echten Namen"
+    }
+}

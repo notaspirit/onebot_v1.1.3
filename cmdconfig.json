@@ -1,0 +1,27 @@
+{
+  "comingsoon": {
+    "Giveaways": 0,
+    "Umfragen": 0,
+    "Bewerbungen": 0,
+    "Events": 0,
+    "Perks": 0,
+    "TempVoiceChannels": 0,
+    "SayEmbedsbearbeiten": 0
+  },
+  "todo": [],
+  "info": {
+    "info1": "Info"
+  },
+  "partnerschaft": {
+    "line1": "line"
+  },
+  "regelwerk": {
+    "line1": "line"
+  },
+  "faq": {
+    "line1": "line"
+  },
+  "lost": {
+    "counter": 10
+  }
+}

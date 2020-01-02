@@ -1,0 +1,22 @@
+{
+    "nc": {
+        "dark_lime": "0x4fb000",
+        "dark_green": "0x00b023",
+        "dark_cyan": "0x00b07e",
+        "dark_light_blue": "0x00a7b0",
+        "dark_blue": "0x0009b0",
+        "dark_purple": "0x5e00b0",
+        "dark_pink": "0xb000ad",
+        "dark_magenta": "0xb00064"
+    },
+    "pc": {
+        "lime": "0x84ff00",
+        "green": "0x00ff26",
+        "cyan": "0x00fffb",
+        "light_blue": "0x00aeff",
+        "blue": "0x0004ff",
+        "purple": "0xd000ff",
+        "pink": "0xff00d4",
+        "magenta": "0xff0091"
+    }
+}
